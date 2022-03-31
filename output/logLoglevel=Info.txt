@@ -1,0 +1,718 @@
+2022-03-29 21:35:51 INFO  ReadCsv:31 - current Line in readCSVFile Is ... Hellen,1,1,"definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-29 21:35:51 INFO  ReadCsv:62 - valueList Once splited is ... [Hellen, 1, 1, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-29 21:35:51 INFO  ReadCsv:87 - List to object is ... 
+
+2022-03-30 13:17:15 INFO  SummaryDao:34 - current Line in readCSVFile Is ... 1,Hellen,1,1,"definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 13:17:15 INFO  SummaryDao:160 - valueList Once splited is ... [1, Hellen, 1, 1, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 13:17:15 INFO  SummaryDao:194 - List to object is ... 
+
+2022-03-30 13:31:43 INFO  SummaryDao:105 - current Line in readCSVFile Is ... 1,Hellen,1,1,"definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 13:31:43 INFO  SummaryDao:170 - valueList Once splited is ... [1, Hellen, 1, 1, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 13:31:43 INFO  SummaryDao:204 - List to object is ... 
+
+2022-03-30 13:31:43 INFO  SummaryDao:112 - current Line in readCSVFileSingleEntry Is ... 1,Hellen,1,1,"definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 13:31:43 INFO  SummaryDao:149 - Finished Updating CSV file ... 
+
+2022-03-30 13:32:35 INFO  SummaryDao:149 - Finished Updating CSV file ... 
+
+2022-03-30 13:34:20 INFO  SummaryDao:105 - current Line in readCSVFile Is ... 1,Hellen,1,1,"definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 13:34:20 INFO  SummaryDao:171 - valueList Once splited is ... [1, Hellen, 1, 1, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 13:34:20 INFO  SummaryDao:205 - List to object is ... 
+
+2022-03-30 13:34:20 INFO  SummaryDao:112 - current Line in readCSVFileSingleEntry Is ... 1,Hellen,1,1,"definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 13:34:20 INFO  SummaryDao:135 - new object SummaryObjectVO [id=null, student=Mike, status=null, madeADifference=false, coveredValue=definition of derivatives using limits and implicit differentiation, recomendation=null, gender=null]
+
+2022-03-30 13:34:20 INFO  SummaryDao:150 - Finished Updating CSV file ... 
+
+2022-03-30 13:36:21 INFO  SummaryDao:105 - current Line in readCSVFile Is ... 1,Hellen,1,1,"definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 13:36:21 INFO  SummaryDao:171 - valueList Once splited is ... [1, Hellen, 1, 1, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 13:36:21 INFO  SummaryDao:205 - List to object is ... 
+
+2022-03-30 13:36:21 INFO  SummaryDao:112 - current Line in readCSVFileSingleEntry Is ... 1,Hellen,1,1,"definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 13:36:21 INFO  SummaryDao:135 - new object SummaryObjectVO [id=null, student=Mike, status=1, madeADifference=false, coveredValue=definition of derivatives using limits and implicit differentiation, recomendation=ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), gender=he]
+
+2022-03-30 13:36:21 INFO  SummaryDao:150 - Finished Updating CSV file ... 
+
+2022-03-30 13:38:47 INFO  SummaryDao:105 - current Line in readCSVFile Is ... 1,Hellen,1,1,"definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 13:38:47 INFO  SummaryDao:175 - valueList Once splited is ... [1, Hellen, 1, 1, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 13:38:47 INFO  SummaryDao:209 - List to object is ... 
+
+2022-03-30 13:38:47 INFO  SummaryDao:112 - current Line in readCSVFileSingleEntry Is ... 1,Hellen,1,1,"definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 13:38:47 INFO  SummaryDao:136 - new object SummaryObjectVO [id=1, student=Mike, status=1, madeADifference=false, coveredValue=definition of derivatives using limits and implicit differentiation, recomendation=ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), gender=he]
+
+2022-03-30 13:38:47 INFO  SummaryDao:154 - Finished Updating CSV file ... 
+
+2022-03-30 13:38:47 INFO  SummaryDao:34 - current Line in readCSVFile Is ... "1""Mike""1""0""definition of derivatives using limits and implicit differentiation""ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)""M"
+
+2022-03-30 13:38:47 INFO  SummaryDao:175 - valueList Once splited is ... [1Mike10definition of derivatives using limits and implicit differentiationask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)M]
+
+2022-03-30 13:38:47 INFO  SummaryDao:209 - List to object is ... 
+
+2022-03-30 13:41:48 INFO  SummaryDao:105 - current Line in readCSVFile Is ... 1,Hellen,1,1,"definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 13:41:48 INFO  SummaryDao:179 - valueList Once splited is ... [1, Hellen, 1, 1, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 13:41:48 INFO  SummaryDao:213 - List to object is ... 
+
+2022-03-30 13:41:48 INFO  SummaryDao:112 - current Line in readCSVFileSingleEntry Is ... 1,Hellen,1,1,"definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 13:41:48 INFO  SummaryDao:136 - new object SummaryObjectVO [id=1, student=Mike, status=1, madeADifference=false, coveredValue=definition of derivatives using limits and implicit differentiation, recomendation=ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), gender=he]
+
+2022-03-30 13:41:48 INFO  SummaryDao:158 - Finished Updating CSV file ... 
+
+2022-03-30 13:41:48 INFO  SummaryDao:34 - current Line in readCSVFile Is ... "1""Mike""1""0""definition of derivatives using limits and implicit differentiation""ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)""M",
+
+2022-03-30 13:41:48 INFO  SummaryDao:179 - valueList Once splited is ... [1Mike10definition of derivatives using limits and implicit differentiationask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)M]
+
+2022-03-30 13:41:48 INFO  SummaryDao:213 - List to object is ... 
+
+2022-03-30 13:44:38 INFO  SummaryDao:105 - current Line in readCSVFile Is ... 1,Hellen,1,1,"definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 13:44:38 INFO  SummaryDao:175 - valueList Once splited is ... [1, Hellen, 1, 1, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 13:44:38 INFO  SummaryDao:210 - List to object is ... 
+
+2022-03-30 13:44:38 INFO  SummaryDao:112 - current Line in readCSVFileSingleEntry Is ... 1,Hellen,1,1,"definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 13:44:38 INFO  SummaryDao:136 - new object SummaryObjectVO [id=1, student=Mike, status=1, madeADifference=false, coveredValue=definition of derivatives using limits and implicit differentiation, recomendation=ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), gender=he]
+
+2022-03-30 13:44:38 INFO  SummaryDao:154 - Finished Updating CSV file ... 
+
+2022-03-30 13:44:38 INFO  SummaryDao:34 - current Line in readCSVFile Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 13:44:38 INFO  SummaryDao:175 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 13:44:38 INFO  SummaryDao:210 - List to object is ... 
+
+2022-03-30 13:50:39 INFO  SummaryDao:34 - current Line in readCSVFile Is ... Andre,1,1,"critical numbers, increasing decreasing test","work more examples of the problem to keep the problem fresh in memory",M
+
+2022-03-30 13:50:39 INFO  SummaryDao:180 - valueList Once splited is ... [Andre, 1, 1, critical numbers, increasing decreasing test, work more examples of the problem to keep the problem fresh in memory, M]
+
+2022-03-30 13:50:39 INFO  SummaryDao:215 - List to object is ... 
+
+2022-03-30 13:50:39 INFO  SummaryDao:34 - current Line in readCSVFile Is ... Saddy,1,0,critical numbers,"work more examples of the problem to keep the problem fresh in memory",F
+
+2022-03-30 13:50:39 INFO  SummaryDao:180 - valueList Once splited is ... [Saddy, 1, 0, critical numbers, work more examples of the problem to keep the problem fresh in memory, F]
+
+2022-03-30 13:50:39 INFO  SummaryDao:215 - List to object is ... 
+
+2022-03-30 13:50:39 INFO  SummaryDao:34 - current Line in readCSVFile Is ... Andre,1,1,"critical numbers, increasing decreasing test","work more examples of the problem to keep the problem fresh in memory",M
+
+2022-03-30 13:50:39 INFO  SummaryDao:180 - valueList Once splited is ... [Andre, 1, 1, critical numbers, increasing decreasing test, work more examples of the problem to keep the problem fresh in memory, M]
+
+2022-03-30 13:50:39 INFO  SummaryDao:215 - List to object is ... 
+
+2022-03-30 13:50:39 INFO  SummaryDao:34 - current Line in readCSVFile Is ... Saddy,1,0,critical numbers,"work more examples of the problem to keep the problem fresh in memory",F
+
+2022-03-30 13:50:39 INFO  SummaryDao:180 - valueList Once splited is ... [Saddy, 1, 0, critical numbers, work more examples of the problem to keep the problem fresh in memory, F]
+
+2022-03-30 13:50:39 INFO  SummaryDao:215 - List to object is ... 
+
+2022-03-30 13:52:43 INFO  SummaryDao:34 - current Line in readCSVFile Is ... Andre,1,1,"critical numbers, increasing decreasing test","work more examples of the problem to keep the problem fresh in memory",M
+
+2022-03-30 13:52:43 INFO  SummaryDao:185 - valueList Once splited is ... [Andre, 1, 1, critical numbers, increasing decreasing test, work more examples of the problem to keep the problem fresh in memory, M]
+
+2022-03-30 13:52:43 INFO  SummaryDao:220 - List to object is ... 
+
+2022-03-30 13:52:43 INFO  SummaryDao:34 - current Line in readCSVFile Is ... Saddy,1,0,critical numbers,"work more examples of the problem to keep the problem fresh in memory",F
+
+2022-03-30 13:52:43 INFO  SummaryDao:185 - valueList Once splited is ... [Saddy, 1, 0, critical numbers, work more examples of the problem to keep the problem fresh in memory, F]
+
+2022-03-30 13:52:43 INFO  SummaryDao:220 - List to object is ... 
+
+2022-03-30 13:52:43 INFO  SummaryDao:34 - current Line in readCSVFile Is ... Andre,1,1,"critical numbers, increasing decreasing test","work more examples of the problem to keep the problem fresh in memory",M
+
+2022-03-30 13:52:43 INFO  SummaryDao:185 - valueList Once splited is ... [Andre, 1, 1, critical numbers, increasing decreasing test, work more examples of the problem to keep the problem fresh in memory, M]
+
+2022-03-30 13:52:43 INFO  SummaryDao:220 - List to object is ... 
+
+2022-03-30 13:52:43 INFO  SummaryDao:34 - current Line in readCSVFile Is ... Saddy,1,0,critical numbers,"work more examples of the problem to keep the problem fresh in memory",F
+
+2022-03-30 13:52:43 INFO  SummaryDao:185 - valueList Once splited is ... [Saddy, 1, 0, critical numbers, work more examples of the problem to keep the problem fresh in memory, F]
+
+2022-03-30 13:52:43 INFO  SummaryDao:220 - List to object is ... 
+
+2022-03-30 13:54:47 INFO  SummaryDao:34 - current Line in readCSVFile Is ... Andre,1,1,"critical numbers, increasing decreasing test","work more examples of the problem to keep the problem fresh in memory",M
+
+2022-03-30 13:54:47 INFO  SummaryDao:190 - valueList Once splited is ... [Andre, 1, 1, critical numbers, increasing decreasing test, work more examples of the problem to keep the problem fresh in memory, M]
+
+2022-03-30 13:54:47 INFO  SummaryDao:225 - List to object is ... 
+
+2022-03-30 13:54:47 INFO  SummaryDao:34 - current Line in readCSVFile Is ... Saddy,1,0,critical numbers,"work more examples of the problem to keep the problem fresh in memory",F
+
+2022-03-30 13:54:47 INFO  SummaryDao:190 - valueList Once splited is ... [Saddy, 1, 0, critical numbers, work more examples of the problem to keep the problem fresh in memory, F]
+
+2022-03-30 13:54:47 INFO  SummaryDao:225 - List to object is ... 
+
+2022-03-30 13:54:47 INFO  SummaryDao:34 - current Line in readCSVFile Is ... Andre,1,1,"critical numbers, increasing decreasing test","work more examples of the problem to keep the problem fresh in memory",M
+
+2022-03-30 13:54:47 INFO  SummaryDao:190 - valueList Once splited is ... [Andre, 1, 1, critical numbers, increasing decreasing test, work more examples of the problem to keep the problem fresh in memory, M]
+
+2022-03-30 13:54:47 INFO  SummaryDao:225 - List to object is ... 
+
+2022-03-30 13:54:47 INFO  SummaryDao:34 - current Line in readCSVFile Is ... Saddy,1,0,critical numbers,"work more examples of the problem to keep the problem fresh in memory",F
+
+2022-03-30 13:54:47 INFO  SummaryDao:190 - valueList Once splited is ... [Saddy, 1, 0, critical numbers, work more examples of the problem to keep the problem fresh in memory, F]
+
+2022-03-30 13:54:47 INFO  SummaryDao:225 - List to object is ... 
+
+2022-03-30 13:56:34 INFO  SummaryDao:34 - current Line in readCSVFile Is ... Andre,1,1,"critical numbers, increasing decreasing test","work more examples of the problem to keep the problem fresh in memory",M
+
+2022-03-30 13:56:34 INFO  SummaryDao:191 - valueList Once splited is ... [Andre, 1, 1, critical numbers, increasing decreasing test, work more examples of the problem to keep the problem fresh in memory, M]
+
+2022-03-30 13:56:34 INFO  SummaryDao:226 - List to object is ... 
+
+2022-03-30 13:56:34 INFO  SummaryDao:34 - current Line in readCSVFile Is ... Saddy,1,0,critical numbers,"work more examples of the problem to keep the problem fresh in memory",F
+
+2022-03-30 13:56:34 INFO  SummaryDao:191 - valueList Once splited is ... [Saddy, 1, 0, critical numbers, work more examples of the problem to keep the problem fresh in memory, F]
+
+2022-03-30 13:56:34 INFO  SummaryDao:226 - List to object is ... 
+
+2022-03-30 13:56:35 INFO  SummaryDao:34 - current Line in readCSVFile Is ... Andre,1,1,"critical numbers, increasing decreasing test","work more examples of the problem to keep the problem fresh in memory",M
+
+2022-03-30 13:56:35 INFO  SummaryDao:191 - valueList Once splited is ... [Andre, 1, 1, critical numbers, increasing decreasing test, work more examples of the problem to keep the problem fresh in memory, M]
+
+2022-03-30 13:56:35 INFO  SummaryDao:226 - List to object is ... 
+
+2022-03-30 13:56:35 INFO  SummaryDao:34 - current Line in readCSVFile Is ... Saddy,1,0,critical numbers,"work more examples of the problem to keep the problem fresh in memory",F
+
+2022-03-30 13:56:35 INFO  SummaryDao:191 - valueList Once splited is ... [Saddy, 1, 0, critical numbers, work more examples of the problem to keep the problem fresh in memory, F]
+
+2022-03-30 13:56:35 INFO  SummaryDao:226 - List to object is ... 
+
+2022-03-30 13:58:44 INFO  SummaryDao:34 - current Line in readCSVFile Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 13:58:44 INFO  SummaryDao:191 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 13:58:44 INFO  SummaryDao:226 - List to object is ... 
+
+2022-03-30 13:58:44 INFO  SummaryDao:110 - current Line in readCSVFile Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 13:58:44 INFO  SummaryDao:191 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 13:58:44 INFO  SummaryDao:226 - List to object is ... 
+
+2022-03-30 13:58:44 INFO  SummaryDao:170 - Finished Updating CSV file ... 
+
+2022-03-30 14:02:24 INFO  SummaryDao:34 - current Line in readCSVFile Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:02:24 INFO  SummaryDao:191 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:02:24 INFO  SummaryDao:226 - List to object is ... 
+
+2022-03-30 14:02:24 INFO  SummaryDao:34 - current Line in readCSVFile Is ... "2","Saddy","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:02:24 INFO  SummaryDao:191 - valueList Once splited is ... [2, Saddy, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:02:24 INFO  SummaryDao:226 - List to object is ... 
+
+2022-03-30 14:02:24 INFO  SummaryDao:110 - current Line in readCSVFile Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:02:24 INFO  SummaryDao:191 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:02:24 INFO  SummaryDao:226 - List to object is ... 
+
+2022-03-30 14:02:24 INFO  SummaryDao:110 - current Line in readCSVFile Is ... "2","Saddy","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:02:24 INFO  SummaryDao:191 - valueList Once splited is ... [2, Saddy, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:02:24 INFO  SummaryDao:226 - List to object is ... 
+
+2022-03-30 14:02:24 INFO  SummaryDao:170 - Finished Updating CSV file ... 
+
+2022-03-30 14:04:28 INFO  SummaryDao:34 - current Line in readCSVFile Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:04:28 INFO  SummaryDao:193 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:04:28 INFO  SummaryDao:228 - List to object is ... 
+
+2022-03-30 14:04:28 INFO  SummaryDao:34 - current Line in readCSVFile Is ... "2","Saddy","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:04:28 INFO  SummaryDao:193 - valueList Once splited is ... [2, Saddy, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:04:28 INFO  SummaryDao:228 - List to object is ... 
+
+2022-03-30 14:05:28 INFO  SummaryDao:34 - current Line in readCSVFile Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:05:28 INFO  SummaryDao:193 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:05:28 INFO  SummaryDao:228 - List to object is ... 
+
+2022-03-30 14:05:28 INFO  SummaryDao:34 - current Line in readCSVFile Is ... "2","Saddy","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:05:28 INFO  SummaryDao:193 - valueList Once splited is ... [2, Saddy, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:05:28 INFO  SummaryDao:228 - List to object is ... 
+
+2022-03-30 14:05:29 INFO  SummaryDao:112 - current Line in readCSVFile Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:05:29 INFO  SummaryDao:193 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:05:29 INFO  SummaryDao:228 - List to object is ... 
+
+2022-03-30 14:05:29 INFO  SummaryDao:119 - current Line in readCSVFileSingleEntry Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:05:29 INFO  SummaryDao:144 - new object SummaryObjectVO [id=1, student=Mike, status=1, madeADifference=false, coveredValue=definition of derivatives using limits and implicit differentiation, recomendation=ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), gender=he]
+
+2022-03-30 14:05:29 INFO  SummaryDao:112 - current Line in readCSVFile Is ... "2","Saddy","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:05:29 INFO  SummaryDao:193 - valueList Once splited is ... [2, Saddy, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:05:29 INFO  SummaryDao:228 - List to object is ... 
+
+2022-03-30 14:05:29 INFO  SummaryDao:172 - Finished Updating CSV file ... 
+
+2022-03-30 14:09:20 INFO  SummaryDao:34 - current Line in readCSVFile Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:09:20 INFO  SummaryDao:193 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:09:20 INFO  SummaryDao:228 - List to object is ... 
+
+2022-03-30 14:09:20 INFO  SummaryDao:34 - current Line in readCSVFile Is ... "2","Saddy","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:09:20 INFO  SummaryDao:193 - valueList Once splited is ... [2, Saddy, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:09:20 INFO  SummaryDao:228 - List to object is ... 
+
+2022-03-30 14:09:20 INFO  SummaryDao:112 - current Line in readCSVFile Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:09:20 INFO  SummaryDao:193 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:09:20 INFO  SummaryDao:228 - List to object is ... 
+
+2022-03-30 14:09:20 INFO  SummaryDao:119 - current Line in readCSVFileSingleEntry Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:09:20 INFO  SummaryDao:144 - new object SummaryObjectVO [id=1, student=Mike, status=1, madeADifference=false, coveredValue=definition of derivatives using limits and implicit differentiation, recomendation=ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), gender=he]
+
+2022-03-30 14:09:20 INFO  SummaryDao:112 - current Line in readCSVFile Is ... "2","Saddy","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:09:20 INFO  SummaryDao:193 - valueList Once splited is ... [2, Saddy, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:09:20 INFO  SummaryDao:228 - List to object is ... 
+
+2022-03-30 14:09:20 INFO  SummaryDao:172 - Finished Updating CSV file ... 
+
+2022-03-30 14:09:20 INFO  SummaryDao:193 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:09:20 INFO  SummaryDao:228 - List to object is ... 
+
+2022-03-30 14:09:20 INFO  SummaryDao:67 - current Line in readCSVFileSingleEntry Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:10:16 INFO  SummaryDao:34 - current Line in readCSVFile Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:10:16 INFO  SummaryDao:193 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:10:16 INFO  SummaryDao:228 - List to object is ... 
+
+2022-03-30 14:10:16 INFO  SummaryDao:34 - current Line in readCSVFile Is ... "2","Saddy","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:10:16 INFO  SummaryDao:193 - valueList Once splited is ... [2, Saddy, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:10:16 INFO  SummaryDao:228 - List to object is ... 
+
+2022-03-30 14:10:16 INFO  SummaryDao:112 - current Line in readCSVFile Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:10:16 INFO  SummaryDao:193 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:10:16 INFO  SummaryDao:228 - List to object is ... 
+
+2022-03-30 14:10:16 INFO  SummaryDao:119 - current Line in readCSVFileSingleEntry Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:10:16 INFO  SummaryDao:144 - new object SummaryObjectVO [id=1, student=Mike, status=1, madeADifference=false, coveredValue=definition of derivatives using limits and implicit differentiation, recomendation=ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), gender=he]
+
+2022-03-30 14:10:16 INFO  SummaryDao:112 - current Line in readCSVFile Is ... "2","Saddy","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:10:16 INFO  SummaryDao:193 - valueList Once splited is ... [2, Saddy, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:10:16 INFO  SummaryDao:228 - List to object is ... 
+
+2022-03-30 14:10:16 INFO  SummaryDao:172 - Finished Updating CSV file ... 
+
+2022-03-30 14:10:16 INFO  SummaryDao:193 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:10:16 INFO  SummaryDao:228 - List to object is ... 
+
+2022-03-30 14:10:16 INFO  SummaryDao:67 - current Line in readCSVFileSingleEntry Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:35:56 INFO  SummaryDao:34 - current Line in readCSVFile Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:35:56 INFO  SummaryDao:240 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:35:56 INFO  SummaryDao:275 - List to object is ... 
+
+2022-03-30 14:35:56 INFO  SummaryDao:34 - current Line in readCSVFile Is ... "2","Saddy","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:35:56 INFO  SummaryDao:240 - valueList Once splited is ... [2, Saddy, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:35:56 INFO  SummaryDao:275 - List to object is ... 
+
+2022-03-30 14:35:56 INFO  SummaryDao:122 - current Line in readCSVFile Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:35:56 INFO  SummaryDao:240 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:35:56 INFO  SummaryDao:275 - List to object is ... 
+
+2022-03-30 14:35:56 INFO  SummaryDao:129 - current Line in readCSVFileSingleEntry Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:35:56 INFO  SummaryDao:191 - new object SummaryObjectVO [id=1, student=Mike, status=1, madeADifference=false, coveredValue=definition of derivatives using limits and implicit differentiation, recomendation=ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), gender=he]
+
+2022-03-30 14:35:56 INFO  SummaryDao:122 - current Line in readCSVFile Is ... "2","Saddy","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:35:56 INFO  SummaryDao:240 - valueList Once splited is ... [2, Saddy, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:35:56 INFO  SummaryDao:275 - List to object is ... 
+
+2022-03-30 14:35:56 INFO  SummaryDao:219 - Finished Updating CSV file ... 
+
+2022-03-30 14:35:56 INFO  SummaryDao:157 - current Line in readCSVFile Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:35:56 INFO  SummaryDao:240 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:35:56 INFO  SummaryDao:275 - List to object is ... 
+
+2022-03-30 14:35:56 INFO  SummaryDao:157 - current Line in readCSVFile Is ... "2","Saddy","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:35:56 INFO  SummaryDao:240 - valueList Once splited is ... [2, Saddy, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:35:56 INFO  SummaryDao:275 - List to object is ... 
+
+2022-03-30 14:35:56 INFO  SummaryDao:219 - Finished Updating CSV file ... 
+
+2022-03-30 14:35:56 INFO  SummaryDao:240 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:35:56 INFO  SummaryDao:275 - List to object is ... 
+
+2022-03-30 14:35:56 INFO  SummaryDao:67 - current Line in readCSVFileSingleEntry Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:46:46 INFO  SummaryDao:36 - current Line Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:46:46 INFO  SummaryDao:286 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:46:46 INFO  SummaryDao:321 - List to object is ... 
+
+2022-03-30 14:46:46 INFO  SummaryDao:36 - current Line Is ... "2","Saddy","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:46:46 INFO  SummaryDao:286 - valueList Once splited is ... [2, Saddy, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:46:46 INFO  SummaryDao:321 - List to object is ... 
+
+2022-03-30 14:46:46 INFO  SummaryDao:137 - current Line in readCSVFile Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:46:46 INFO  SummaryDao:286 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:46:46 INFO  SummaryDao:321 - List to object is ... 
+
+2022-03-30 14:46:46 INFO  SummaryDao:144 - current Line Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:46:46 INFO  SummaryDao:237 - new object SummaryObjectVO [id=1, student=Mike, status=1, madeADifference=false, coveredValue=definition of derivatives using limits and implicit differentiation, recomendation=ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), gender=he]
+
+2022-03-30 14:46:46 INFO  SummaryDao:137 - current Line in readCSVFile Is ... "2","Saddy","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:46:46 INFO  SummaryDao:286 - valueList Once splited is ... [2, Saddy, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:46:46 INFO  SummaryDao:321 - List to object is ... 
+
+2022-03-30 14:46:46 INFO  SummaryDao:265 - Finished Updating CSV file ... 
+
+2022-03-30 14:46:46 INFO  SummaryDao:172 - current Line in readCSVFile Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:46:46 INFO  SummaryDao:286 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:46:46 INFO  SummaryDao:321 - List to object is ... 
+
+2022-03-30 14:46:46 INFO  SummaryDao:172 - current Line in readCSVFile Is ... "2","Saddy","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:46:46 INFO  SummaryDao:286 - valueList Once splited is ... [2, Saddy, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:46:46 INFO  SummaryDao:321 - List to object is ... 
+
+2022-03-30 14:46:46 INFO  SummaryDao:265 - Finished Updating CSV file ... 
+
+2022-03-30 14:46:46 INFO  SummaryDao:209 - current Line in readCSVFile Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:46:46 INFO  SummaryDao:286 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:46:46 INFO  SummaryDao:321 - List to object is ... 
+
+2022-03-30 14:46:46 INFO  SummaryDao:209 - current Line in readCSVFile Is ... "2","Saddy","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:46:46 INFO  SummaryDao:286 - valueList Once splited is ... [2, Saddy, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:46:46 INFO  SummaryDao:321 - List to object is ... 
+
+2022-03-30 14:46:46 INFO  SummaryDao:209 - current Line in readCSVFile Is ... "3","Cool Kid","2","0","agag","afhakf","M"
+
+2022-03-30 14:46:46 INFO  SummaryDao:286 - valueList Once splited is ... [3, Cool Kid, 2, 0, agag, afhakf, M]
+
+2022-03-30 14:46:46 INFO  SummaryDao:321 - List to object is ... 
+
+2022-03-30 14:46:46 INFO  SummaryDao:265 - Finished Updating CSV file ... 
+
+2022-03-30 14:46:46 INFO  SummaryDao:286 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:46:46 INFO  SummaryDao:321 - List to object is ... 
+
+2022-03-30 14:46:46 INFO  SummaryDao:70 - current Line Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:47:27 INFO  SummaryDao:36 - current Line Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:47:27 INFO  SummaryDao:286 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:47:27 INFO  SummaryDao:321 - List to object is ... 
+
+2022-03-30 14:47:27 INFO  SummaryDao:36 - current Line Is ... "2","Saddy","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:47:27 INFO  SummaryDao:286 - valueList Once splited is ... [2, Saddy, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:47:27 INFO  SummaryDao:321 - List to object is ... 
+
+2022-03-30 14:47:27 INFO  SummaryDao:137 - current Line in readCSVFile Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:47:27 INFO  SummaryDao:286 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:47:27 INFO  SummaryDao:321 - List to object is ... 
+
+2022-03-30 14:47:27 INFO  SummaryDao:144 - current Line Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:47:27 INFO  SummaryDao:237 - new object SummaryObjectVO [id=1, student=Mike, status=1, madeADifference=false, coveredValue=definition of derivatives using limits and implicit differentiation, recomendation=ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), gender=he]
+
+2022-03-30 14:47:27 INFO  SummaryDao:137 - current Line in readCSVFile Is ... "2","Saddy","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:47:27 INFO  SummaryDao:286 - valueList Once splited is ... [2, Saddy, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:47:27 INFO  SummaryDao:321 - List to object is ... 
+
+2022-03-30 14:47:27 INFO  SummaryDao:265 - Finished Updating CSV file ... 
+
+2022-03-30 14:47:27 INFO  SummaryDao:172 - current Line in readCSVFile Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:47:27 INFO  SummaryDao:286 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:47:27 INFO  SummaryDao:321 - List to object is ... 
+
+2022-03-30 14:47:27 INFO  SummaryDao:172 - current Line in readCSVFile Is ... "2","Saddy","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:47:27 INFO  SummaryDao:286 - valueList Once splited is ... [2, Saddy, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:47:27 INFO  SummaryDao:321 - List to object is ... 
+
+2022-03-30 14:47:27 INFO  SummaryDao:265 - Finished Updating CSV file ... 
+
+2022-03-30 14:47:27 INFO  SummaryDao:209 - current Line in readCSVFile Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:47:27 INFO  SummaryDao:286 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:47:27 INFO  SummaryDao:321 - List to object is ... 
+
+2022-03-30 14:47:27 INFO  SummaryDao:209 - current Line in readCSVFile Is ... "2","Saddy","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:47:27 INFO  SummaryDao:286 - valueList Once splited is ... [2, Saddy, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:47:27 INFO  SummaryDao:321 - List to object is ... 
+
+2022-03-30 14:47:27 INFO  SummaryDao:209 - current Line in readCSVFile Is ... "3","Cool Kid","2","0","agag","afhakf","M"
+
+2022-03-30 14:47:27 INFO  SummaryDao:286 - valueList Once splited is ... [3, Cool Kid, 2, 0, agag, afhakf, M]
+
+2022-03-30 14:47:27 INFO  SummaryDao:321 - List to object is ... 
+
+2022-03-30 14:47:27 INFO  SummaryDao:265 - Finished Updating CSV file ... 
+
+2022-03-30 14:47:27 INFO  SummaryDao:286 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:47:27 INFO  SummaryDao:321 - List to object is ... 
+
+2022-03-30 14:47:27 INFO  SummaryDao:70 - current Line Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:49:34 INFO  SummaryDao:36 - current Line Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:49:34 INFO  SummaryDao:286 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:49:34 INFO  SummaryDao:321 - List to object is ... 
+
+2022-03-30 14:49:34 INFO  SummaryDao:36 - current Line Is ... "2","Saddy","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:49:34 INFO  SummaryDao:286 - valueList Once splited is ... [2, Saddy, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:49:34 INFO  SummaryDao:321 - List to object is ... 
+
+2022-03-30 14:49:34 INFO  SummaryDao:137 - current Line in readCSVFile Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:49:34 INFO  SummaryDao:286 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:49:34 INFO  SummaryDao:321 - List to object is ... 
+
+2022-03-30 14:49:34 INFO  SummaryDao:144 - current Line Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:49:34 INFO  SummaryDao:237 - new object SummaryObjectVO [id=1, student=Mike, status=1, madeADifference=false, coveredValue=definition of derivatives using limits and implicit differentiation, recomendation=ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), gender=he]
+
+2022-03-30 14:49:34 INFO  SummaryDao:137 - current Line in readCSVFile Is ... "2","Saddy","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:49:34 INFO  SummaryDao:286 - valueList Once splited is ... [2, Saddy, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:49:34 INFO  SummaryDao:321 - List to object is ... 
+
+2022-03-30 14:49:34 INFO  SummaryDao:265 - Finished Updating CSV file ... 
+
+2022-03-30 14:49:34 INFO  SummaryDao:286 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:49:34 INFO  SummaryDao:321 - List to object is ... 
+
+2022-03-30 14:49:34 INFO  SummaryDao:70 - current Line Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:49:34 INFO  SummaryDao:172 - current Line in readCSVFile Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:49:34 INFO  SummaryDao:286 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:49:34 INFO  SummaryDao:321 - List to object is ... 
+
+2022-03-30 14:49:34 INFO  SummaryDao:172 - current Line in readCSVFile Is ... "2","Saddy","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:49:34 INFO  SummaryDao:286 - valueList Once splited is ... [2, Saddy, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:49:34 INFO  SummaryDao:321 - List to object is ... 
+
+2022-03-30 14:49:34 INFO  SummaryDao:265 - Finished Updating CSV file ... 
+
+2022-03-30 14:49:34 INFO  SummaryDao:209 - current Line in readCSVFile Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:49:34 INFO  SummaryDao:286 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:49:34 INFO  SummaryDao:321 - List to object is ... 
+
+2022-03-30 14:49:34 INFO  SummaryDao:209 - current Line in readCSVFile Is ... "2","Saddy","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:49:34 INFO  SummaryDao:286 - valueList Once splited is ... [2, Saddy, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:49:34 INFO  SummaryDao:321 - List to object is ... 
+
+2022-03-30 14:49:34 INFO  SummaryDao:209 - current Line in readCSVFile Is ... "3","Cool Kid","2","0","agag","afhakf","M"
+
+2022-03-30 14:49:34 INFO  SummaryDao:286 - valueList Once splited is ... [3, Cool Kid, 2, 0, agag, afhakf, M]
+
+2022-03-30 14:49:34 INFO  SummaryDao:321 - List to object is ... 
+
+2022-03-30 14:49:34 INFO  SummaryDao:265 - Finished Updating CSV file ... 
+
+2022-03-30 14:49:34 INFO  SummaryDao:209 - current Line in readCSVFile Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:49:34 INFO  SummaryDao:286 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:49:34 INFO  SummaryDao:321 - List to object is ... 
+
+2022-03-30 14:49:34 INFO  SummaryDao:209 - current Line in readCSVFile Is ... "2","Saddy","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:49:34 INFO  SummaryDao:286 - valueList Once splited is ... [2, Saddy, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:49:34 INFO  SummaryDao:321 - List to object is ... 
+
+2022-03-30 14:49:34 INFO  SummaryDao:265 - Finished Updating CSV file ... 
+
+2022-03-30 14:54:47 INFO  SummaryDao:36 - current Line Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:54:47 INFO  SummaryDao:289 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:54:47 INFO  SummaryDao:324 - List to object is ... 
+
+2022-03-30 14:54:47 INFO  SummaryDao:36 - current Line Is ... "2","Saddy","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:54:47 INFO  SummaryDao:289 - valueList Once splited is ... [2, Saddy, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:54:47 INFO  SummaryDao:324 - List to object is ... 
+
+2022-03-30 14:54:47 INFO  SummaryDao:137 - current Line in readCSVFile Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:54:47 INFO  SummaryDao:289 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:54:47 INFO  SummaryDao:324 - List to object is ... 
+
+2022-03-30 14:54:47 INFO  SummaryDao:144 - current Line Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:54:47 INFO  SummaryDao:240 - new object SummaryObjectVO [id=1, student=Mike, status=1, madeADifference=false, coveredValue=definition of derivatives using limits and implicit differentiation, recomendation=ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), gender=he]
+
+2022-03-30 14:54:47 INFO  SummaryDao:137 - current Line in readCSVFile Is ... "2","Saddy","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:54:47 INFO  SummaryDao:289 - valueList Once splited is ... [2, Saddy, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:54:47 INFO  SummaryDao:324 - List to object is ... 
+
+2022-03-30 14:54:47 INFO  SummaryDao:268 - Finished Updating CSV file ... 
+
+2022-03-30 14:54:47 INFO  SummaryDao:289 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:54:47 INFO  SummaryDao:324 - List to object is ... 
+
+2022-03-30 14:54:47 INFO  SummaryDao:70 - current Line Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:54:47 INFO  SummaryDao:172 - current Line in readCSVFile Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:54:47 INFO  SummaryDao:289 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:54:47 INFO  SummaryDao:324 - List to object is ... 
+
+2022-03-30 14:54:47 INFO  SummaryDao:172 - current Line in readCSVFile Is ... "2","Saddy","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:54:47 INFO  SummaryDao:289 - valueList Once splited is ... [2, Saddy, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:54:47 INFO  SummaryDao:324 - List to object is ... 
+
+2022-03-30 14:54:47 INFO  SummaryDao:268 - Finished Updating CSV file ... 
+
+2022-03-30 14:54:47 INFO  SummaryDao:289 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:54:47 INFO  SummaryDao:324 - List to object is ... 
+
+2022-03-30 14:54:47 INFO  SummaryDao:289 - valueList Once splited is ... [2, Saddy, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:54:47 INFO  SummaryDao:324 - List to object is ... 
+
+2022-03-30 14:54:47 INFO  SummaryDao:289 - valueList Once splited is ... [3, Cool Kid, 2, 0, agag, afhakf, M]
+
+2022-03-30 14:54:47 INFO  SummaryDao:324 - List to object is ... 
+
+2022-03-30 14:54:47 INFO  SummaryDao:70 - current Line Is ... "3","Cool Kid","2","0","agag","afhakf","M"
+
+2022-03-30 14:54:47 INFO  SummaryDao:212 - current Line in readCSVFile Is ... "1","Mike","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:54:47 INFO  SummaryDao:289 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:54:47 INFO  SummaryDao:324 - List to object is ... 
+
+2022-03-30 14:54:47 INFO  SummaryDao:212 - current Line in readCSVFile Is ... "2","Saddy","1","0","definition of derivatives using limits and implicit differentiation","ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension)","M"
+
+2022-03-30 14:54:47 INFO  SummaryDao:289 - valueList Once splited is ... [2, Saddy, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:54:47 INFO  SummaryDao:324 - List to object is ... 
+
+2022-03-30 14:54:47 INFO  SummaryDao:212 - current Line in readCSVFile Is ... "3","Cool Kid","2","0","agag","afhakf","M"
+
+2022-03-30 14:54:47 INFO  SummaryDao:289 - valueList Once splited is ... [3, Cool Kid, 2, 0, agag, afhakf, M]
+
+2022-03-30 14:54:47 INFO  SummaryDao:324 - List to object is ... 
+
+2022-03-30 14:54:47 INFO  SummaryDao:268 - Finished Updating CSV file ... 
+
+2022-03-30 14:54:47 INFO  SummaryDao:289 - valueList Once splited is ... [1, Mike, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:54:47 INFO  SummaryDao:324 - List to object is ... 
+
+2022-03-30 14:54:47 INFO  SummaryDao:289 - valueList Once splited is ... [2, Saddy, 1, 0, definition of derivatives using limits and implicit differentiation, ask for more time to review and study before taking the exam (Whether in the form of a drop or make up or extension), M]
+
+2022-03-30 14:54:47 INFO  SummaryDao:324 - List to object is ... 
+
